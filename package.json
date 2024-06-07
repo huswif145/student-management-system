@@ -1,0 +1,23 @@
+{
+  "name": "student-man-sys",
+  "version": "1.0.0",
+  "description": "student_management_system",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rimsha Ather",
+  "license": "MIT",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.14.2",
+    "D": "^1.0.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
